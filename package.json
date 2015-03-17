@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MVII3IV/Node",
   "dependencies": {
-    "express": "^4.12.2"
+    "express": "^4.12.2",
+    "jade": "^1.9.2"
   }
 }
