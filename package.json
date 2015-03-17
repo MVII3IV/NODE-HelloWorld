@@ -1,0 +1,22 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "description": "just to say hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MVII3IV/Node.git"
+  },
+  "author": "Erick Mullen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MVII3IV/Node/issues"
+  },
+  "homepage": "https://github.com/MVII3IV/Node",
+  "dependencies": {
+    "express": "^4.12.2"
+  }
+}
